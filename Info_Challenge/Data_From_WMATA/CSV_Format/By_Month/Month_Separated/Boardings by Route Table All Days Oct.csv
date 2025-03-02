@@ -1,0 +1,99 @@
+Station Name,AM Peak (Open-9:30am),Midday (9:30am-3pm),PM Peak (3pm-7pm),Evening (7pm-12am),Late Night (12am-Close),MONTH,SEASON
+Addison Road,798.00,392.00,223.00,116.00,9.0,October,Fall
+Anacostia,"1,347.00","1,118.00","1,131.00",313.00,14.0,October,Fall
+Archives,164.00,"1,140.00","3,086.00",836.00,13.0,October,Fall
+Arlington Cemetery,49.00,643.00,489.00,2.00,1.0,October,Fall
+Ashburn,754.00,357.00,230.00,68.00,1.0,October,Fall
+Ballston-MU,"1,894.00","1,477.00","1,850.00",667.00,18.0,October,Fall
+Benning Road,897.00,534.00,390.00,129.00,6.0,October,Fall
+Bethesda,"1,428.00","1,390.00","1,766.00",619.00,15.0,October,Fall
+Braddock Road,"1,032.00",595.00,567.00,202.00,9.0,October,Fall
+Branch Ave,"1,491.00",513.00,323.00,127.00,4.0,October,Fall
+Brookland-CUA,"1,263.00","1,335.00","1,625.00",474.00,11.0,October,Fall
+Capitol Heights,673.00,331.00,236.00,85.00,9.0,October,Fall
+Capitol South,527.00,"1,084.00","2,283.00",376.00,10.0,October,Fall
+Cheverly,279.00,148.00,95.00,37.00,7.0,October,Fall
+Clarendon,952.00,800.00,861.00,522.00,37.0,October,Fall
+Cleveland Park,763.00,788.00,690.00,315.00,10.0,October,Fall
+College Park-U of Md,678.00,706.00,798.00,372.00,10.0,October,Fall
+Columbia Heights,"1,937.00","2,357.00","3,011.00","1,180.00",29.0,October,Fall
+Congress Heights,637.00,425.00,365.00,130.00,7.0,October,Fall
+Court House,"1,488.00","1,209.00","1,122.00",450.00,14.0,October,Fall
+Crystal City,"1,567.00","1,712.00","1,890.00",539.00,18.0,October,Fall
+Deanwood,400.00,299.00,276.00,76.00,13.0,October,Fall
+Downtown Largo,"1,204.00",466.00,350.00,163.00,6.0,October,Fall
+Dulles Airport,349.00,563.00,"1,124.00",580.00,3.0,October,Fall
+Dunn Loring,803.00,425.00,444.00,140.00,4.0,October,Fall
+Dupont Circle,"1,816.00","2,811.00","4,218.00","2,314.00",90.0,October,Fall
+East Falls Church,"1,243.00",733.00,585.00,175.00,8.0,October,Fall
+Eastern Market,959.00,"1,272.00","1,219.00",635.00,16.0,October,Fall
+Eisenhower Ave,542.00,400.00,440.00,139.00,5.0,October,Fall
+Farragut North,532.00,"2,037.00","6,134.00","2,031.00",64.0,October,Fall
+Farragut West,659.00,"1,958.00","5,450.00","1,627.00",37.0,October,Fall
+Federal Center SW,194.00,575.00,"1,407.00",153.00,7.0,October,Fall
+Federal Triangle,87.00,907.00,"2,508.00",505.00,10.0,October,Fall
+Foggy Bottom-GWU,"1,326.00","3,358.00","6,801.00","3,145.00",38.0,October,Fall
+Forest Glen,601.00,271.00,212.00,60.00,4.0,October,Fall
+Fort Totten,"2,711.00","1,763.00","1,709.00",530.00,21.0,October,Fall
+Franconia-Springfield,"1,614.00",891.00,594.00,164.00,4.0,October,Fall
+Friendship Heights,"1,158.00","1,170.00","1,249.00",429.00,15.0,October,Fall
+Gallery Place,862.00,"2,505.00","5,320.00","4,766.00",131.0,October,Fall
+Georgia Ave-Petworth,"1,409.00","1,268.00","1,385.00",454.00,15.0,October,Fall
+Glenmont,"1,559.00",716.00,440.00,151.00,11.0,October,Fall
+Greenbelt,"1,485.00",844.00,642.00,210.00,6.0,October,Fall
+Greensboro,196.00,217.00,430.00,145.00,4.0,October,Fall
+Grosvenor-Strathmore,"1,263.00",843.00,590.00,199.00,10.0,October,Fall
+Herndon,504.00,248.00,183.00,49.00,2.0,October,Fall
+Huntington,"1,890.00",880.00,559.00,177.00,10.0,October,Fall
+Hyattsville Crossing,"1,183.00",894.00,755.00,331.00,10.0,October,Fall
+Innovation Center,338.00,284.00,258.00,63.00,2.0,October,Fall
+Judiciary Square,272.00,896.00,"2,173.00",538.00,13.0,October,Fall
+King St-Old Town,"1,273.00","1,302.00","1,234.00",572.00,19.0,October,Fall
+L'Enfant Plaza,"1,141.00","2,353.00","5,377.00","1,442.00",78.0,October,Fall
+Landover,550.00,199.00,122.00,54.00,4.0,October,Fall
+Loudoun Gateway,146.00,75.00,74.00,19.00,1.0,October,Fall
+McLean,337.00,381.00,"1,038.00",219.00,6.0,October,Fall
+McPherson Sq,983.00,"1,614.00","3,390.00","1,063.00",49.0,October,Fall
+Medical Center,387.00,519.00,"1,505.00",217.00,12.0,October,Fall
+Metro Center,804.00,"2,792.00","7,189.00","3,033.00",75.0,October,Fall
+Minnesota Ave,589.00,464.00,456.00,142.00,6.0,October,Fall
+Morgan Boulevard,470.00,204.00,352.00,340.00,8.0,October,Fall
+Mt Vernon Sq,748.00,"1,120.00","1,598.00",795.00,30.0,October,Fall
+Navy Yard-Ballpark,"1,631.00","1,652.00","2,796.00","1,524.00",42.0,October,Fall
+Naylor Road,660.00,304.00,174.00,97.00,6.0,October,Fall
+New Carrollton,"1,705.00",829.00,592.00,199.00,8.0,October,Fall
+NoMa-Gallaudet U,"2,920.00","2,846.00","3,706.00","1,418.00",39.0,October,Fall
+North Bethesda,653.00,498.00,544.00,196.00,9.0,October,Fall
+Pentagon,"1,999.00","1,718.00","3,155.00",235.00,8.0,October,Fall
+Pentagon City,"2,173.00","2,506.00","2,829.00","1,118.00",18.0,October,Fall
+Potomac Ave,"1,071.00",708.00,574.00,235.00,8.0,October,Fall
+Potomac Yard,607.00,453.00,466.00,143.00,6.0,October,Fall
+Reston Town Center,302.00,232.00,325.00,100.00,3.0,October,Fall
+Rhode Island Ave,"1,526.00","1,320.00","1,214.00",597.00,15.0,October,Fall
+Rockville,900.00,580.00,510.00,178.00,5.0,October,Fall
+Ronald Reagan Washington National Airport,745.00,"2,125.00","1,967.00","1,655.00",19.0,October,Fall
+Rosslyn,"1,745.00","2,615.00","3,228.00",950.00,28.0,October,Fall
+Shady Grove,"2,949.00","1,235.00",914.00,244.00,6.0,October,Fall
+Shaw-Howard U,737.00,984.00,"1,539.00",710.00,39.0,October,Fall
+Silver Spring,"2,049.00","1,579.00","1,545.00",627.00,19.0,October,Fall
+Smithsonian,180.00,"1,753.00","3,124.00",759.00,20.0,October,Fall
+Southern Ave,"1,246.00",551.00,399.00,171.00,9.0,October,Fall
+Spring Hill,175.00,184.00,269.00,96.00,5.0,October,Fall
+Stadium-Armory,591.00,647.00,689.00,210.00,15.0,October,Fall
+Suitland,"1,257.00",536.00,377.00,147.00,6.0,October,Fall
+Takoma,"1,400.00",965.00,"1,076.00",266.00,8.0,October,Fall
+Tenleytown-AU,785.00,"1,182.00","1,908.00",858.00,14.0,October,Fall
+Twinbrook,867.00,564.00,496.00,170.00,7.0,October,Fall
+Tysons,301.00,512.00,"1,068.00",553.00,8.0,October,Fall
+U Street,"1,017.00","1,261.00","1,597.00","1,469.00",115.0,October,Fall
+Union Station,"3,691.00","3,589.00","5,278.00","2,053.00",65.0,October,Fall
+Van Dorn Street,735.00,387.00,253.00,113.00,8.0,October,Fall
+Van Ness-UDC,"1,045.00","1,094.00","1,073.00",361.00,17.0,October,Fall
+Vienna,"1,846.00","1,072.00",804.00,257.00,5.0,October,Fall
+Virginia Sq-GMU,836.00,632.00,645.00,246.00,12.0,October,Fall
+Waterfront,827.00,943.00,"1,277.00",875.00,26.0,October,Fall
+West Falls Church,633.00,344.00,211.00,76.00,6.0,October,Fall
+West Hyattsville,"1,245.00",652.00,480.00,127.00,3.0,October,Fall
+Wheaton,748.00,537.00,485.00,214.00,12.0,October,Fall
+Wiehle-Reston East,700.00,410.00,383.00,99.00,7.0,October,Fall
+Woodley Park,"1,032.00","1,309.00","1,363.00",473.00,28.0,October,Fall
