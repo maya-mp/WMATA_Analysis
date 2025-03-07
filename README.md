@@ -7,6 +7,7 @@ Install:
     -seaborn: pip install seaborn
     -numpy: pip install numpy
     -matplotlib: pip install matplotlib
+    -pypalettes: pip install pypalettes
 
 Visualizations: 
     -Run the jupyter notebook kernels in **Visualizations.ipynb** in order and 
