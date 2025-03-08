@@ -43,9 +43,41 @@ Key visualizations include:
 - **Business Optimization**: Dynamic pricing model for Metro revenue and congestion management
 
 ## ⚙️ How to Run the Project
-### 1. Requirements
-- Python 3.x
-- Libraries: `pandas`, `matplotlib`, `seaborn`, `numpy`,  `pypalettes`
+
+### Requirements
+- **Python 3.x**
+- **Libraries**: 
+  - `pandas`
+  - `matplotlib`
+  - `seaborn`
+  - `numpy`
+  - `pypalettes`
+
+## ⚙️ AI Usage
+
+### AI Programs Used
+- **ChatGPT**
+- **Microsoft Copilot**
+
+
+**Dataset Transformation**:
+- Help generate/fix scripts to transform the CSVs into dataframes
+- Fixing data types
+- Normalization/standardization
+- Adding and removing columns
+- Assigning station types and validating correct line type assignment per station
+
+**Jupyter Notebook/Markdown File Readability**:
+- Took inputted text files from Google Docs and reformatted them for readability in markdown syntax
+
+**Python Visualizations**:
+- Making Python graphs more visually appealing
+- Based on our context and scripts, resolving errors in Python visualizations
+
+**Dynamic Pricing Script**:
+- Brainstorming ideas
+- Fixing errors in the script
+- Coming up with the formula for pricing
 
 ## 🛠 Contributors
 - **Maya Patel**
