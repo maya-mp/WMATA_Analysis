@@ -1,9 +1,9 @@
 # 🚇 DC Metro Ridership Analysis 🚇
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes **Washington, D.C.'s Metro ridership trends** to help transit planners and businesses optimize services and marketing strategies. Using publicly available ridership data, we explore seasonal trends, station-specific traffic, and metro line performance.
 
-## 🔍 Research Questions
+## Research Questions
 We aim to answer the following questions:
 
 ### 1️. Overall Ridership Trends (Big Picture for Metro & Businesses)
@@ -42,7 +42,7 @@ Key visualizations include:
 - **Station & Line Breakdown**: Heatmaps, bar charts, and pie charts to analyze station types and ridership distribution
 - **Business Optimization**: Dynamic pricing model for Metro revenue and congestion management
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### Requirements
 - **Python 3.x**
@@ -65,7 +65,7 @@ Key visualizations include:
 - *merged_df.csv:**  merged_df is a result of merging All_Months.csv and metro_stations.csv on Station Name
 - **metro_stations.csv:** data regarding location and specs of each metrorail station
 
-## ⏰ Future Implementations/Limitations: 
+## Future Implementations/Limitations: 
 
 ### 1. **Normalization of `everyday_2024_w_metro_stations.csv`**
 - **Objective**: Normalize the `everyday_2024_w_metro_stations.csv` dataset.
@@ -100,7 +100,7 @@ Key visualizations include:
 
 ---
 
-## ⚙️ AI Usage
+## AI Usage
 
 ### AI Programs Used
 - **ChatGPT**
@@ -126,7 +126,7 @@ Key visualizations include:
 - Fixing errors in the script
 - Coming up with the formula for pricing
 
-## 🛠 Contributors
+## Contributors
 - **Maya Patel**
 - **Illia Polishchuk**
 - **Adrien Rozario**
