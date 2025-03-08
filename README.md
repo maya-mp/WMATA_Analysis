@@ -27,14 +27,14 @@ We aim to answer the following questions:
 ### 5. Business-Driven Optimization (Closing with Data-Backed Opportunities)
 - Can Metro adjust pricing based on congestion?
 
-## 📊 Data Sources & Processing
+## Data Sources & Processing
 - **Data Collection:** Raw data obtained from **WMATA Metrorail Ridership Summary** and **WMATA Corridor Data Maps.**
 - **Data Processing:**  
   - Cleaned and normalized data for better analysis  
   - Merged relevant columns into structured **dataframes**  
   - Used Python libraries for analysis (e.g., Pandas, Matplotlib, Seaborn)  
 
-## 📈 Exploratory Data Analysis & Visualizations
+## Exploratory Data Analysis & Visualizations
 Key visualizations include:
 - **Ridership Trends**: Histogram of average daily ridership by season and month
 - **Metro Line Analysis**: Total ridership per metro line, monthly trends
